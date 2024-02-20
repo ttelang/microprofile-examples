@@ -27,6 +27,7 @@
 			"extensions": [
 				"streetsidesoftware.code-spell-checker",
 				"vscjava.vscode-java-pack", 
+				"MicroProfile-Community.mp-starter-vscode-ext",
 				"asciidoctor.asciidoctor-vscode", 
 				"Open-Liberty.liberty-dev-vscode-ext", 
 				"Payara.payara-vscode",
